@@ -1,24 +1,20 @@
 <div align="center">
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image.pmg" alt="Oromoo Platform" width="800"/>
-  
-  # 🌾 Oromoo - Africa's Premier Agricultural SaaS Platform
+
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image.png" alt="Oromoo Platform" width="800"/>
+
+  # 🌾 AgriMarket - Africa's Premier Agricultural SaaS Platform
   
   ### Transforming African Agriculture with AI-Powered Solutions
   
-  [![Next.js](https://img.shields.io/badge/Next.js-15.0-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-  
-  [🚀 Live Demo](https://oromoo.vercel.app) • [📖 Documentation](https://docs.oromoo.app) • [💬 Community](https://community.oromoo.app)
+  [🚀 Live Demo](https://AgriMarket.vercel.app) • [📖 Documentation](https://docs.AgriMarket.app) • [💬 Community](https://community.AgriMarket.app)
   
 </div>
 
 ---
 
-## 🌍 About Oromoo
+## 🌍 About AgriMarket
 
-**Oromoo** is a comprehensive agricultural SaaS platform designed specifically for African farmers, pastoralists, and agricultural communities. We leverage cutting-edge AI technology, real-time market data, and collaborative tools to solve 40+ critical challenges facing African agriculture today.
+**AgriMarket** is a comprehensive agricultural SaaS platform designed specifically for African farmers, pastoralists, and agricultural communities. We leverage cutting-edge AI technology, real-time market data, and collaborative tools to solve 40+ critical challenges facing African agriculture today.
 
 ### 🎯 Our Mission
 
