@@ -6,7 +6,7 @@
   
   ### Transforming African Agriculture with AI-Powered Solutions
   
-  [🚀 Live Demo](https://AgriMarket.vercel.app) • [📖 Documentation](https://docs.AgriMarket.app) • [💬 Community](https://community.AgriMarket.app)
+  [🚀 Live Demo](https://agri-market-nb3r8wd1q-gemeda4927s-projects.vercel.app) • [📖 Documentation](https://docs.AgriMarket.app) • [💬 Community](https://community.AgriMarket.app)
 
 </div>
 
