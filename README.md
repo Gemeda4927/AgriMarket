@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-5VaAihx0xlph4VErBEDdJpQpXN63xy.png" alt="Oromoo Platform" width="800"/>
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image.pmg" alt="Oromoo Platform" width="800"/>
   
   # 🌾 Oromoo - Africa's Premier Agricultural SaaS Platform
   
