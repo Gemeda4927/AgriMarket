@@ -7,95 +7,104 @@
   ### Transforming African Agriculture with AI-Powered Solutions
   
   [🚀 Live Demo](https://AgriMarket.vercel.app) • [📖 Documentation](https://docs.AgriMarket.app) • [💬 Community](https://community.AgriMarket.app)
-  
+
 </div>
 
 ---
 
 ## 🌍 About AgriMarket
 
-**AgriMarket** is a comprehensive agricultural SaaS platform designed specifically for African farmers, pastoralists, and agricultural communities. We leverage cutting-edge AI technology, real-time market data, and collaborative tools to solve 40+ critical challenges facing African agriculture today.
+**AgriMarket** is a comprehensive agricultural SaaS platform designed for African farmers, pastoralists, and agricultural communities. We leverage AI technology, real-time market data, and collaborative tools to solve **40+ critical agricultural challenges**.
 
-### 🎯 Our Mission
+### 🎯 Mission
 
 To revolutionize African agriculture by providing intelligent, accessible, and affordable solutions that empower farmers with:
-- 🤖 **AI-driven insights** for better decision-making
-- 🤝 **Collaborative tools** for community engagement
-- 📊 **Advanced analytics** for market intelligence
-- 🌐 **Multi-language support** for accessibility
+
+- 🤖 **AI-driven insights** for informed decision-making  
+- 🤝 **Collaborative tools** for community engagement  
+- 📊 **Advanced analytics** for market intelligence  
+- 🌐 **Multi-language support** for accessibility  
 
 ---
 
 ## ✨ Key Features
 
 ### 🐄 Cattle Market & Livestock Management
-- **Live Cattle Auctions** - Real-time bidding system with verified sellers
-- **Livestock Health Monitoring** - AI-powered disease detection and alerts
-- **Breed Management** - Genetic tracking and crossbreeding recommendations
-- **Veterinary Network** - Connect with certified veterinarians instantly
-- **GPS Tracking** - Monitor livestock location and prevent theft
+- **Live Cattle Auctions** – Real-time bidding with verified sellers  
+- **Livestock Health Monitoring** – AI-powered disease detection  
+- **Breed Management** – Genetic tracking & crossbreeding suggestions  
+- **Veterinary Network** – Connect with certified veterinarians instantly  
+- **GPS Tracking** – Monitor livestock location and prevent theft  
 
 ### 🌱 Land, Soil & Crop Management
-- **Soil Analysis** - AI-powered soil type identification and recommendations
-- **Crop Planning** - Intelligent crop rotation and planting schedules
-- **Seed Marketplace** - Access to high-quality, verified seeds
-- **Fertilizer Optimization** - Customized fertilizer recommendations
-- **Harvest Prediction** - Weather-based yield forecasting
+- **Soil Analysis** – AI-powered soil type identification  
+- **Crop Planning** – Intelligent rotation & planting schedules  
+- **Seed Marketplace** – Access verified, high-quality seeds  
+- **Fertilizer Optimization** – Customized recommendations  
+- **Harvest Prediction** – Weather-based yield forecasting  
 
 ### 📍 Market Intelligence & Analysis
-- **Real-Time Pricing** - Live market prices across 50+ locations
-- **Market Recommendations** - AI suggests best markets based on your location
-- **Price Trend Analysis** - Historical data and future predictions
-- **Regional Comparisons** - Compare prices across Ethiopia, Kenya, and beyond
-- **Smart Routing** - Optimal transport routes to markets
+- **Real-Time Pricing** – Live market prices across 50+ locations  
+- **Market Recommendations** – AI-suggested optimal markets  
+- **Price Trend Analysis** – Historical & predictive insights  
+- **Regional Comparisons** – Ethiopia, Kenya & beyond  
+- **Smart Routing** – Optimal transport routes  
 
 ### 💧 Water & Resource Management
-- **Irrigation Planning** - Water usage optimization
-- **Rainfall Predictions** - AI-powered weather forecasting
-- **Water Source Mapping** - Locate nearest clean water sources
-- **Resource Allocation** - Efficient distribution planning
+- **Irrigation Planning** – Efficient water usage  
+- **Rainfall Predictions** – AI weather forecasting  
+- **Water Source Mapping** – Locate nearest clean water sources  
+- **Resource Allocation** – Optimized distribution planning  
 
 ### 🌐 Community & Knowledge Sharing
-- **Expert Network** - Connect with agricultural specialists
-- **Farmer Forums** - Share experiences and best practices
-- **Training Programs** - Access to research-based education
-- **Multi-Language Support** - Available in Oromo, Amharic, Swahili, and English
+- **Expert Network** – Connect with agricultural specialists  
+- **Farmer Forums** – Share experiences & best practices  
+- **Training Programs** – Research-based education  
+- **Multi-Language Support** – Oromo, Amharic, Swahili, English  
 
 ### 📱 Mobile-First Design
-- **Offline Mode** - Access critical features without internet
-- **SMS Integration** - Receive alerts via text message
-- **USSD Support** - Basic features accessible on any phone
-- **Progressive Web App** - Install on any device
+- **Offline Mode** – Access features without internet  
+- **SMS & USSD Integration** – Alerts via text, basic feature access  
+- **Progressive Web App** – Installable on any device  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- **Framework**: Next.js 15 (App Router)
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS v4
-- **UI Components**: shadcn/ui
-- **Animations**: Framer Motion
-- **Icons**: Lucide React
+- **Framework**: Next.js 15 (App Router)  
+- **Language**: TypeScript  
+- **Styling**: Tailwind CSS v4  
+- **UI Components**: shadcn/ui  
+- **Animations**: Framer Motion  
+- **Icons**: Lucide React  
 
 ### Backend & Database
-- **Database**: Supabase (PostgreSQL)
-- **Authentication**: Supabase Auth
-- **Storage**: Vercel Blob
-- **API**: Next.js Route Handlers & Server Actions
+- **Database**: Supabase (PostgreSQL)  
+- **Authentication**: Supabase Auth  
+- **Storage**: Vercel Blob  
+- **API**: Next.js Route Handlers & Server Actions  
 
 ### AI & Analytics
-- **AI Models**: Vercel AI SDK with OpenAI/Anthropic
-- **Market Analysis**: Custom ML models
-- **Image Recognition**: Fal AI for crop/livestock identification
+- **AI Models**: Vercel AI SDK (OpenAI/Anthropic)  
+- **Market Analysis**: Custom ML models  
+- **Image Recognition**: Fal AI for crop/livestock identification  
 
 ### Deployment
-- **Hosting**: Vercel
-- **CDN**: Vercel Edge Network
-- **Monitoring**: Vercel Analytics
+- **Hosting**: Vercel  
+- **CDN**: Vercel Edge Network  
+- **Monitoring**: Vercel Analytics  
 
 ---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+```bash
+node >= 18.0.0
+npm >= 9.0.0
+
 
 ## 🚀 Getting Started
 
