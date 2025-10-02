@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-5VaAihx0xlph4VErBEDdJpQpXN63xy.png" alt="Oromoo Platform" width="800"/>
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/<img width="1749" height="759" alt="image" src="https://github.com/user-attachments/assets/c81b635d-110a-4605-99ff-d915a5506e78" />
+" alt="Oromoo Platform" width="800"/>
   
   # 🌾 AgriMarket - Africa's Premier Agricultural SaaS Platform
   
